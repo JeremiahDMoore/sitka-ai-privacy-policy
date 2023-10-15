@@ -1,4 +1,5 @@
 # Sitka AI Privacy Policy
+https://jeremiahdmoore.github.io/sitka-ai-privacy-policy/
 
 **Effective Date:** August 6, 2023
 
