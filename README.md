@@ -1,11 +1,11 @@
 # Sitka AI Privacy Policy
 https://jeremiahdmoore.github.io/sitka-ai-privacy-policy/
 
-**Effective Date:** August 6, 2023
+**Effective Date:** November 16, 2023
 
 ## 1. Introduction
 
-Welcome to the Sitka AI Web App. This privacy policy is designed to inform users of our practices regarding the collection, use, and disclosure of information that you may provide via this app. Please be sure to read this entire privacy policy before using or submitting information to this app.
+Welcome to the Sitka Relationship Coach App. This privacy policy is designed to inform users of our practices regarding the collection, use, and disclosure of information that you may provide via this app. Please be sure to read this entire privacy policy before using or submitting information to this app.
 
 ---
 
